@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "features": ["swimming pool", "garden", "garage", "fireplace", "patio"],
+    "name": "Cozy Villa",
+    "location": "123 Main Street, Cityville",
+    "price": 500000,
+    "pack": "Premium"
+  },
+  {
+    "id": 2,
+    "features": [
+      "balcony",
+      "gym",
+      "parking",
+      "central heating",
+      "security cameras"
+    ],
+    "name": "Modern Apartment",
+    "location": "456 Elm Avenue, Townsville",
+    "price": 300000,
+    "pack": "Standard"
+  },
+  {
+    "id": 3,
+    "features": [
+      "fireplace",
+      "backyard",
+      "security system",
+      "wooden deck",
+      "solar panels"
+    ],
+    "name": "Rustic Cottage",
+    "location": "789 Oak Lane, Villagetown",
+    "price": 250000,
+    "pack": "Basic"
+  },
+  {
+    "id": 4,
+    "features": [
+      "pool table",
+      "home theater",
+      "wine cellar",
+      "sauna",
+      "library"
+    ],
+    "name": "Luxury Mansion",
+    "location": "1011 Pine Road, Countryside",
+    "price": 2000000,
+    "pack": "Platinum"
+  },
+  {
+    "id": 5,
+    "features": ["tennis court", "guest house", "barn", "pond", "orchard"],
+    "name": "Country Estate",
+    "location": "1213 Cedar Street, Farmland",
+    "price": 1500000,
+    "pack": "Gold"
+  }
+]
